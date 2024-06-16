@@ -12,6 +12,7 @@ Sou um **front-end** */* **PHP**, fissurado pelo **desenvolvimento de apps e sit
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+---
   
 ### Frameworks:
 
@@ -19,39 +20,52 @@ Sou um **front-end** */* **PHP**, fissurado pelo **desenvolvimento de apps e sit
 [![REACTNATIVE](https://img.shields.io/badge/React_Native-3c4048?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![BOOTSTRAP](	https://img.shields.io/badge/Bootstrap-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![LARAVEL](	https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
+---
 
  
 ### Ferramentas de Desenvolvimento:
 
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+---
 
  
 ### Banco de Dados:
 
 [![MYSQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
+---
 
- 
 
 [![GITHUB](https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1s&theme=blue-green)]()
 
 
 ## Projetos em Destaque
 
-1. **[Descubra Serra Gaúcha](https://github.com/Ja1s/Descubra-Serra-Gaucha)**: Projeto dedicado a turistas da região da Serra Gaúcha, criado com [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+1. **[Descubra Serra Gaúcha](https://github.com/Ja1s/Descubra-Serra-Gaucha)**: Projeto dedicado a turistas da região da Serra Gaúcha, criado com
 
-2. **[To Do List](https://github.com/Ja1s/ToDoList)**: Uma lista de tarefas com busca avançada, criada com [![REACTJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=3c4048)]()
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+  [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+  [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+  [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+  [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+---
+
+2. **[To Do List](https://github.com/Ja1s/ToDoList)**: Uma lista de tarefas com busca avançada, criada com 
+
+  [![REACTJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=3c4048)]()
+  [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+---
    
 3. **[Interface de Login](https://github.com/Ja1s/Login)**: Com um botão animado, uma interface de login com autenticação criada em 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+
+  [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+  [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+---
    
-4. **[Password Generator](https://github.com/Ja1s/Password-Generator-Mobile)**: Um aplicativo que gera senhas aleatórias, com possibilidade de escolha entre letras maiúsculas, minúculas, números e símbolos, criado com [![REACTNATIVE](https://img.shields.io/badge/React_Native-3c4048?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+4. **[Password Generator](https://github.com/Ja1s/Password-Generator-Mobile)**: Um aplicativo que gera senhas aleatórias, com possibilidade de escolha entre letras maiúsculas, minúculas, números e símbolos, criado com 
+
+  [![REACTNATIVE](https://img.shields.io/badge/React_Native-3c4048?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+  [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+---
 
 ## 📫 Contato
 Você pode me encontrar nas seguintes plataformas:

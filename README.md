@@ -49,8 +49,7 @@ Você pode me encontrar nas seguintes plataformas:
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ja1s7)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssprlt12@gmail.com)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Ja1s7/)
-[![PORTFOLIO](https://img.shields.io/badge/Portfolio-ffc107?style=for-the-badge&color=black&labelColor=ffc107)](portfolio.descubraserragaucha.com)
-
+[![PORTFOLIO](https://img.shields.io/badge/Portfolio-ffc107?style=for-the-badge&labelColor=ffc107&color=black)](https://portfolio.descubraserragaucha.com)
 
 ---
 

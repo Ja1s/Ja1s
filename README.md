@@ -38,10 +38,20 @@ Sou um **front-end** */* **PHP**, fissurado pelo **desenvolvimento de apps e sit
 
 ## Projetos em Destaque
 
-1. **[Descubra Serra Gaúcha](https://github.com/Ja1s/Descubra-Serra-Gaucha)**: Uma breve descrição do que este projeto faz e as tecnologias utilizadas.
-2. **[To Do List](https://github.com/Ja1s/ToDoList)**: Uma breve descrição do que este projeto faz e as tecnologias utilizadas.
-3. **[Interface de Login](https://github.com/Ja1s/Login)**: Uma breve descrição do que este projeto faz e as tecnologias utilizadas.
-4. **[Password Generator](https://github.com/Ja1s/Password-Generator-Mobile)**:
+1. **[Descubra Serra Gaúcha](https://github.com/Ja1s/Descubra-Serra-Gaucha)**: Projeto dedicado a turistas da região da Serra Gaúcha, criado com [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+
+2. **[To Do List](https://github.com/Ja1s/ToDoList)**: Uma lista de tarefas com busca avançada, criada com [![REACTJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=3c4048)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+   
+3. **[Interface de Login](https://github.com/Ja1s/Login)**: Com um botão animado, uma interface de login com autenticação criada em 
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+   
+4. **[Password Generator](https://github.com/Ja1s/Password-Generator-Mobile)**: Um aplicativo que gera senhas aleatórias, com possibilidade de escolha entre letras maiúsculas, minúculas, números e símbolos, criado com [![REACTNATIVE](https://img.shields.io/badge/React_Native-3c4048?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
 ## 📫 Contato
 Você pode me encontrar nas seguintes plataformas:

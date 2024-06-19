@@ -4,6 +4,21 @@
 
 Sou um **front-end** */* **PHP**, fissurado pelo **desenvolvimento de apps e sites**.
 
+<details closed>
+
+<summary>Sobre e Projetos</summary>
+
+<div>
+  <div align="right" style="margin:auto">
+     <a href="https://github.com/Ja1s">
+        <img height="170px"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1s&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=30&theme=transparent&title_color=333&custom_title=Minhas%20linguagens%20mais%20usadas"
+             alt="Most used languages"
+             align="right">
+    </a>
+</div>
+    <div align="left" style="margin:auto">
+  
 ## Habilidades
 
 ### Linguagens de Programação:
@@ -33,11 +48,11 @@ Sou um **front-end** */* **PHP**, fissurado pelo **desenvolvimento de apps e sit
 ### Banco de Dados:
 
 [![MYSQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
+  </div>
+  
 ---
 
-
-[![GITHUB](https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1s&theme=blue-green)]()
-
+</div>
 
 ## Projetos em Destaque
 
@@ -67,6 +82,8 @@ Sou um **front-end** */* **PHP**, fissurado pelo **desenvolvimento de apps e sit
   [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 ---
 
+</details>
+
 ## 📫 Contato
 Você pode me encontrar nas seguintes plataformas:
 
@@ -76,4 +93,3 @@ Você pode me encontrar nas seguintes plataformas:
 [![PORTFOLIO](https://img.shields.io/badge/Portfolio-ffc107?style=for-the-badge&color=ffc107)](https://portfolio.descubraserragaucha.com)
 
 ---
-
